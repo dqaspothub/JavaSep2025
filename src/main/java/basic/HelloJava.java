@@ -11,9 +11,12 @@ public class HelloJava {
         // Printing a welcome message to the console
         System.out.println("🚀 Welcome to the Java Journey!");
         System.out.println("Let's learn Java step by step.");
-        
-    }
-}
+        System.out.print("Hello");
+        System.out.print("World");
+        System.out.println("!");
+            }
+        }
+
 
 
 
